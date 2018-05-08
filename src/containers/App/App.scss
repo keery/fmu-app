@@ -1,2 +1,9 @@
 .App {
-}
+  text-align: center; padding: 10px 0;
+
+  .convertissor {
+    select { height: 30px;min-width: 100px; }
+  }
+} 
+
+.spacing-h { padding: 15px 0; }
