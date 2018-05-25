@@ -1,5 +1,5 @@
 # INSTALLATION
-npm install / yarn install
+npm install / yarn install  
 npm start / yarn start
 
 ## Utilisation
